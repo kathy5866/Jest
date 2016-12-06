@@ -7238,7 +7238,7 @@
                           <node concept="1pGfFk" id="4QdyUXkGvfO" role="2ShVmc">
                             <ref role="37wK5l" to="45kb:7j$WnoQNSBe" resolve="HttpClientConfig.Builder" />
                             <node concept="Xl_RD" id="4QdyUXkGvh3" role="37wK5m">
-                              <property role="Xl_RC" value="https://loclhost:9200" />
+                              <property role="Xl_RC" value="http://localhost:9200" />
                             </node>
                           </node>
                         </node>
@@ -7275,23 +7275,23 @@
               <node concept="3clFbH" id="4QdyUXkGw6Q" role="3cqZAp" />
               <node concept="SfApY" id="4QdyUXkGwd8" role="3cqZAp">
                 <node concept="3clFbS" id="4QdyUXkGwda" role="SfCbr">
-                  <node concept="3clFbF" id="4QdyUXkGwyL" role="3cqZAp">
-                    <node concept="2OqwBi" id="4QdyUXkGwzP" role="3clFbG">
-                      <node concept="37vLTw" id="4QdyUXkGwyJ" role="2Oq$k0">
+                  <node concept="3clFbF" id="4QdyUXkPeZ6" role="3cqZAp">
+                    <node concept="2OqwBi" id="4QdyUXkPf3F" role="3clFbG">
+                      <node concept="37vLTw" id="4QdyUXkPeZ4" role="2Oq$k0">
                         <ref role="3cqZAo" node="4QdyUXkGw0c" resolve="client" />
                       </node>
-                      <node concept="liA8E" id="4QdyUXkGxov" role="2OqNvi">
+                      <node concept="liA8E" id="4QdyUXkPf5E" role="2OqNvi">
                         <ref role="37wK5l" node="7j$WnoQO5zc" resolve="execute" />
-                        <node concept="2OqwBi" id="4QdyUXkGyUv" role="37wK5m">
-                          <node concept="2ShNRf" id="4QdyUXkGxq3" role="2Oq$k0">
-                            <node concept="1pGfFk" id="4QdyUXkGyOg" role="2ShVmc">
+                        <node concept="2OqwBi" id="4QdyUXkPfUB" role="37wK5m">
+                          <node concept="2ShNRf" id="4QdyUXkPf7k" role="2Oq$k0">
+                            <node concept="1pGfFk" id="4QdyUXkPfP2" role="2ShVmc">
                               <ref role="37wK5l" to="bcdp:7j$WnoQNTSo" resolve="CreateIndex.Builder" />
-                              <node concept="Xl_RD" id="4QdyUXkGyPV" role="37wK5m">
+                              <node concept="Xl_RD" id="4QdyUXkPfR1" role="37wK5m">
                                 <property role="Xl_RC" value="articles" />
                               </node>
                             </node>
                           </node>
-                          <node concept="liA8E" id="4QdyUXkGyYG" role="2OqNvi">
+                          <node concept="liA8E" id="4QdyUXkPg2x" role="2OqNvi">
                             <ref role="37wK5l" to="bcdp:7j$WnoQNTSM" resolve="build" />
                           </node>
                         </node>
@@ -7312,38 +7312,38 @@
                       </node>
                     </node>
                   </node>
-                  <node concept="3clFbF" id="4QdyUXkGzso" role="3cqZAp">
-                    <node concept="2OqwBi" id="4QdyUXkGzwv" role="3clFbG">
-                      <node concept="37vLTw" id="4QdyUXkGzsm" role="2Oq$k0">
+                  <node concept="3clFbF" id="4QdyUXkNZcV" role="3cqZAp">
+                    <node concept="2OqwBi" id="4QdyUXkNZf8" role="3clFbG">
+                      <node concept="37vLTw" id="4QdyUXkNZcT" role="2Oq$k0">
                         <ref role="3cqZAo" node="4QdyUXkGw0c" resolve="client" />
                       </node>
-                      <node concept="liA8E" id="4QdyUXkGzyo" role="2OqNvi">
+                      <node concept="liA8E" id="4QdyUXkNZgY" role="2OqNvi">
                         <ref role="37wK5l" node="7j$WnoQO5zc" resolve="execute" />
-                        <node concept="2OqwBi" id="4QdyUXkG$uP" role="37wK5m">
-                          <node concept="2ShNRf" id="4QdyUXkGzzW" role="2Oq$k0">
-                            <node concept="1pGfFk" id="4QdyUXkG$m3" role="2ShVmc">
+                        <node concept="2OqwBi" id="4QdyUXkO07l" role="37wK5m">
+                          <node concept="2ShNRf" id="4QdyUXkNZiu" role="2Oq$k0">
+                            <node concept="1pGfFk" id="4QdyUXkO004" role="2ShVmc">
                               <ref role="37wK5l" to="bcdp:7j$WnoQNYCH" resolve="DeleteIndex.Builder" />
-                              <node concept="Xl_RD" id="4QdyUXkG$of" role="37wK5m">
+                              <node concept="Xl_RD" id="4QdyUXkO01V" role="37wK5m">
                                 <property role="Xl_RC" value="articles" />
                               </node>
                             </node>
                           </node>
-                          <node concept="liA8E" id="4QdyUXkG$AJ" role="2OqNvi">
+                          <node concept="liA8E" id="4QdyUXkO0fd" role="2OqNvi">
                             <ref role="37wK5l" to="bcdp:7j$WnoQNYD7" resolve="build" />
                           </node>
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="3clFbF" id="4QdyUXkG$Lk" role="3cqZAp">
-                    <node concept="2OqwBi" id="4QdyUXkG$TU" role="3clFbG">
-                      <node concept="10M0yZ" id="4QdyUXkG$Rh" role="2Oq$k0">
+                  <node concept="3clFbF" id="4QdyUXkNYLZ" role="3cqZAp">
+                    <node concept="2OqwBi" id="4QdyUXkNYRO" role="3clFbG">
+                      <node concept="10M0yZ" id="4QdyUXkNYPo" role="2Oq$k0">
                         <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
                         <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
                       </node>
-                      <node concept="liA8E" id="4QdyUXkG_01" role="2OqNvi">
+                      <node concept="liA8E" id="4QdyUXkNYXN" role="2OqNvi">
                         <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
-                        <node concept="Xl_RD" id="4QdyUXkG_1z" role="37wK5m">
+                        <node concept="Xl_RD" id="4QdyUXkNYZv" role="37wK5m">
                           <property role="Xl_RC" value="Delete articles" />
                         </node>
                       </node>
@@ -7368,6 +7368,25 @@
                           <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
                           <node concept="Xl_RD" id="4QdyUXkGwrm" role="37wK5m">
                             <property role="Xl_RC" value="there is an exception" />
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                    <node concept="3clFbF" id="4QdyUXkKicc" role="3cqZAp">
+                      <node concept="2OqwBi" id="4QdyUXkKifh" role="3clFbG">
+                        <node concept="10M0yZ" id="4QdyUXkKidA" role="2Oq$k0">
+                          <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+                          <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+                        </node>
+                        <node concept="liA8E" id="4QdyUXkKiM9" role="2OqNvi">
+                          <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
+                          <node concept="2OqwBi" id="4QdyUXkKiR3" role="37wK5m">
+                            <node concept="37vLTw" id="4QdyUXkKiNI" role="2Oq$k0">
+                              <ref role="3cqZAo" node="4QdyUXkGwdd" resolve="e" />
+                            </node>
+                            <node concept="liA8E" id="4QdyUXkKiTC" role="2OqNvi">
+                              <ref role="37wK5l" to="wyt6:~Throwable.getMessage():java.lang.String" resolve="getMessage" />
+                            </node>
                           </node>
                         </node>
                       </node>
