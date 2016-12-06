@@ -12,7 +12,8 @@ public class Main {
     JestClientFactory factory = new JestClientFactory();
     factory.setHttpClientConfig(new HttpClientConfig.Builder("http://localhost:9200").multiThreaded(true).build());
     JestClient client = factory.getObject();
-
+    // impoting the wrong package or package that doesnot need to be imported causes issues and  
+    // we need to redo everything (even deleting the entire repo) - some easy way to "delete" the imported package would be useful 
     try {
       client.execute(new CreateIndex.Builder("articles").build());
       System.out.println("Create Articles");

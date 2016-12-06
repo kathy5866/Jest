@@ -194,7 +194,6 @@
       <concept id="1068580123155" name="jetbrains.mps.baseLanguage.structure.ExpressionStatement" flags="nn" index="3clFbF">
         <child id="1068580123156" name="expression" index="3clFbG" />
       </concept>
-      <concept id="1068580123157" name="jetbrains.mps.baseLanguage.structure.Statement" flags="nn" index="3clFbH" />
       <concept id="1068580123159" name="jetbrains.mps.baseLanguage.structure.IfStatement" flags="nn" index="3clFbJ">
         <child id="1082485599094" name="ifFalseStatement" index="9aQIa" />
         <child id="1068580123160" name="condition" index="3clFbw" />
@@ -7272,7 +7271,16 @@
                   </node>
                 </node>
               </node>
-              <node concept="3clFbH" id="4QdyUXkGw6Q" role="3cqZAp" />
+              <node concept="3SKdUt" id="4QdyUXkRZ1N" role="3cqZAp">
+                <node concept="3SKdUq" id="4QdyUXkRZ1P" role="3SKWNk">
+                  <property role="3SKdUp" value="impoting the wrong package or package that doesnot need to be imported causes issues and " />
+                </node>
+              </node>
+              <node concept="3SKdUt" id="4QdyUXkRZjS" role="3cqZAp">
+                <node concept="3SKdUq" id="4QdyUXkRZjU" role="3SKWNk">
+                  <property role="3SKdUp" value="we need to redo everything (even deleting the entire repo) - some easy way to &quot;delete&quot; the imported package would be useful" />
+                </node>
+              </node>
               <node concept="SfApY" id="4QdyUXkGwd8" role="3cqZAp">
                 <node concept="3clFbS" id="4QdyUXkGwda" role="SfCbr">
                   <node concept="3clFbF" id="4QdyUXkPeZ6" role="3cqZAp">
