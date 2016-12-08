@@ -129,6 +129,16 @@
     <classNode dependClassName="java.lang.String" />
     <classNode extendsClassName="io.searchbox.client.JestResult" />
   </dependency>
+  <dependency className="io.searchbox.core.Explain" file="Explain.java">
+    <classNode dependClassName="io.searchbox.action.AbstractDocumentTargetedAction" />
+    <classNode dependClassName="io.searchbox.action.Builder" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="org.apache.commons.lang3.builder.EqualsBuilder" />
+    <classNode dependClassName="org.apache.commons.lang3.builder.HashCodeBuilder" />
+    <classNode extendsClassName="io.searchbox.action.SingleResultAbstractDocumentTargetedAction" />
+  </dependency>
   <dependency className="io.searchbox.core.Get" file="Get.java">
     <classNode dependClassName="io.searchbox.action.AbstractDocumentTargetedAction" />
     <classNode dependClassName="io.searchbox.action.Builder" />
@@ -274,6 +284,17 @@
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode extendsClassName="io.searchbox.action.GenericResultAbstractAction" />
+  </dependency>
+  <dependency className="io.searchbox.core.Suggest" file="Suggest.java">
+    <classNode dependClassName="com.google.gson.Gson" />
+    <classNode dependClassName="io.searchbox.action.AbstractMultiTypeActionBuilder" />
+    <classNode dependClassName="io.searchbox.core.SuggestResult" />
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="org.apache.commons.lang3.builder.EqualsBuilder" />
+    <classNode dependClassName="org.apache.commons.lang3.builder.HashCodeBuilder" />
+    <classNode extendsClassName="io.searchbox.action.AbstractAction" />
   </dependency>
   <dependency className="io.searchbox.core.SuggestResult" file="SuggestResult.java">
     <classNode dependClassName="com.google.gson.Gson" />

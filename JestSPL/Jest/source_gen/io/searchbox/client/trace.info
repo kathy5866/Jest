@@ -12,38 +12,162 @@
   <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
   <concept fqn="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
-  <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5588276297793065277">
-    <file name="Main.java">
-      <node id="5588276297793123478" at="11,42,12,56" concept="9" />
-      <node id="5588276297793131129" at="12,56,13,115" concept="3" />
-      <node id="5588276297793142795" at="13,115,14,44" concept="9" />
-      <node id="5588276297796153459" at="14,44,15,97" concept="11" />
-      <node id="5588276297796154616" at="15,97,16,131" concept="11" />
-      <node id="5588276297795432390" at="17,9,18,66" concept="3" />
-      <node id="5588276297793155473" at="18,66,19,44" concept="3" />
-      <node id="5588276297795105595" at="19,44,20,66" concept="3" />
-      <node id="5588276297795103871" at="20,66,21,44" concept="3" />
-      <node id="5588276297793144009" at="22,29,23,50" concept="3" />
-      <node id="5588276297794134796" at="23,50,24,41" concept="3" />
-      <node id="5588276297793143624" at="16,131,25,5" concept="15" />
-      <node id="5588276297793119179" at="11,0,27,0" concept="13" trace="main#([Ljava/lang/String;)V" />
-      <scope id="5588276297793143627" at="22,0,24,41">
-        <var name="e" id="5588276297793143629" />
+  <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5082150469603525651">
+    <file name="GUI.java">
+      <node id="5082150469603530908" at="23,0,24,0" concept="4" trace="mainFrame" />
+      <node id="5082150469603532933" at="24,0,25,0" concept="4" trace="controlPanel" />
+      <node id="5082150469603760138" at="26,16,27,17" concept="3" />
+      <node id="5082150469603714458" at="30,42,31,24" concept="9" />
+      <node id="5082150469603759259" at="31,24,32,25" concept="3" />
+      <node id="5082150469603543982" at="35,29,36,50" concept="3" />
+      <node id="5082150469603553611" at="36,50,37,32" concept="3" />
+      <node id="782160963560438282" at="37,32,38,0" concept="12" />
+      <node id="782160963560887690" at="38,0,39,0" concept="12" />
+      <node id="782160963560890914" at="39,0,40,55" concept="9" />
+      <node id="782160963560971317" at="40,55,41,61" concept="3" />
+      <node id="782160963560439457" at="41,61,42,0" concept="12" />
+      <node id="782160963560539723" at="42,0,43,0" concept="12" />
+      <node id="5082150469603626885" at="45,58,46,23" concept="3" />
+      <node id="782160963560466891" at="48,7,49,0" concept="12" />
+      <node id="782160963560469196" at="49,0,50,32" concept="3" />
+      <node id="782160963560476967" at="50,32,51,45" concept="3" />
+      <node id="5082150469603674823" at="51,45,52,0" concept="12" />
+      <node id="5082150469603681258" at="52,0,53,32" concept="3" />
+      <node id="782160963561377998" at="53,32,54,38" concept="3" />
+      <node id="5082150469603690611" at="54,38,55,31" concept="3" />
+      <node id="5082150469603730388" at="58,33,59,0" concept="12" />
+      <node id="5082150469603755061" at="59,0,60,31" concept="3" />
+      <node id="5082150469603758433" at="60,31,61,0" concept="12" />
+      <node id="782160963560992759" at="64,34,65,32" concept="9" />
+      <node id="782160963562090629" at="65,32,66,63" concept="3" />
+      <node id="782160963562300242" at="66,63,67,0" concept="12" />
+      <node id="782160963560915319" at="67,0,68,44" concept="9" />
+      <node id="782160963560927287" at="68,44,69,49" concept="9" />
+      <node id="782160963562301501" at="69,49,70,0" concept="12" />
+      <node id="782160963562176208" at="70,0,71,39" concept="9" />
+      <node id="782160963562201900" at="71,39,72,45" concept="3" />
+      <node id="782160963562127229" at="72,45,73,43" concept="9" />
+      <node id="782160963562162767" at="73,43,74,43" concept="9" />
+      <node id="782160963562185374" at="74,43,75,43" concept="9" />
+      <node id="782160963562302761" at="75,43,76,0" concept="12" />
+      <node id="782160963561012808" at="76,0,77,44" concept="9" />
+      <node id="782160963561020648" at="77,44,78,41" concept="9" />
+      <node id="782160963562054850" at="78,41,79,55" concept="9" />
+      <node id="782160963562304022" at="79,55,80,0" concept="12" />
+      <node id="782160963562247084" at="80,0,81,46" concept="9" />
+      <node id="782160963562255273" at="81,46,82,56" concept="3" />
+      <node id="782160963562315230" at="82,56,83,0" concept="12" />
+      <node id="782160963562267176" at="83,0,84,41" concept="9" />
+      <node id="782160963562275371" at="84,41,85,81" concept="3" />
+      <node id="782160963562288951" at="85,81,86,52" concept="9" />
+      <node id="782160963562313963" at="86,52,87,0" concept="12" />
+      <node id="782160963562298973" at="87,0,88,35" concept="9" />
+      <node id="782160963562317486" at="88,35,89,41" concept="3" />
+      <node id="782160963562329823" at="89,41,90,45" concept="9" />
+      <node id="782160963562339763" at="90,45,91,47" concept="9" />
+      <node id="782160963562538645" at="91,47,92,55" concept="3" />
+      <node id="782160963562348648" at="92,55,93,27" concept="3" />
+      <node id="782160963562354670" at="93,27,94,25" concept="3" />
+      <node id="782160963562358426" at="94,25,95,0" concept="12" />
+      <node id="782160963562362347" at="95,0,96,35" concept="9" />
+      <node id="782160963562370837" at="96,35,97,41" concept="3" />
+      <node id="782160963562383413" at="97,41,98,45" concept="9" />
+      <node id="782160963562393384" at="98,45,99,47" concept="9" />
+      <node id="782160963562527049" at="99,47,100,55" concept="3" />
+      <node id="782160963562402483" at="100,55,101,27" concept="3" />
+      <node id="782160963562408768" at="101,27,102,25" concept="3" />
+      <node id="782160963562412682" at="102,25,103,0" concept="12" />
+      <node id="782160963562415366" at="103,0,104,33" concept="3" />
+      <node id="782160963562421772" at="104,33,105,33" concept="3" />
+      <node id="782160963562425771" at="105,33,106,0" concept="12" />
+      <node id="782160963562431167" at="106,0,107,32" concept="9" />
+      <node id="782160963562439450" at="107,32,108,63" concept="3" />
+      <node id="782160963562452447" at="108,63,109,44" concept="9" />
+      <node id="782160963562469136" at="109,44,110,43" concept="9" />
+      <node id="782160963562550354" at="110,43,111,59" concept="3" />
+      <node id="782160963562477535" at="111,59,112,26" concept="3" />
+      <node id="782160963562482692" at="112,26,113,24" concept="3" />
+      <node id="782160963562485819" at="113,24,114,0" concept="12" />
+      <node id="782160963562488703" at="114,0,115,44" concept="3" />
+      <node id="782160963562497698" at="115,44,116,35" concept="3" />
+      <node id="782160963560932050" at="116,35,117,0" concept="12" />
+      <node id="782160963560976602" at="117,0,118,0" concept="12" />
+      <node id="782160963562044548" at="118,0,119,71" concept="3" />
+      <node id="782160963561026163" at="119,71,120,0" concept="12" />
+      <node id="782160963562194850" at="120,0,121,29" concept="3" />
+      <node id="782160963562210755" at="121,29,122,29" concept="3" />
+      <node id="782160963562216334" at="122,29,123,29" concept="3" />
+      <node id="782160963562149684" at="123,29,124,0" concept="12" />
+      <node id="782160963561035987" at="124,0,125,0" concept="12" />
+      <node id="782160963562070809" at="125,0,126,59" concept="3" />
+      <node id="782160963560992793" at="126,59,127,0" concept="12" />
+      <node id="782160963560999225" at="127,0,128,26" concept="3" />
+      <node id="782160963561007819" at="128,26,129,30" concept="3" />
+      <node id="782160963561043816" at="129,30,130,20" concept="3" />
+      <node id="782160963561047937" at="130,20,131,24" concept="3" />
+      <node id="782160963562064918" at="131,24,132,26" concept="3" />
+      <node id="782160963562237599" at="132,26,133,28" concept="3" />
+      <node id="782160963562507505" at="133,28,134,35" concept="3" />
+      <node id="782160963562108218" at="134,35,135,50" concept="3" />
+      <node id="782160963560925887" at="135,50,136,0" concept="12" />
+      <node id="782160963560983988" at="136,0,137,17" concept="10" />
+      <node id="5082150469603534109" at="26,0,29,0" concept="2" trace="GUI#()V" />
+      <node id="5082150469603624664" at="45,0,48,0" concept="8" trace="windowClosing#(Ljava/awt/event/WindowEvent;)V" />
+      <node id="5082150469603708485" at="30,0,34,0" concept="14" trace="main#([Ljava/lang/String;)V" />
+      <node id="5082150469603599928" at="43,0,48,7" concept="3" />
+      <node id="5082150469603720994" at="58,0,63,0" concept="8" trace="showJPanelDemo#()V" />
+      <node id="5082150469603539006" at="35,0,57,0" concept="8" trace="prepareGUI#()V" />
+      <node id="782160963560909140" at="64,0,139,0" concept="8" trace="manipulateTab#()Ljavax/swing/JPanel;" />
+      <scope id="5082150469603534112" at="26,16,27,17" />
+      <scope id="5082150469603624667" at="45,58,46,23" />
+      <scope id="5082150469603708488" at="30,42,32,25">
+        <var name="gui" id="5082150469603714459" />
       </scope>
-      <scope id="5588276297793143633" at="22,29,24,41" />
-      <scope id="5588276297793143626" at="17,9,21,44" />
-      <scope id="5588276297793119185" at="11,42,25,5">
-        <var name="client" id="5588276297793142796" />
-        <var name="factory" id="5588276297793123479" />
+      <scope id="5082150469603534109" at="26,0,29,0" />
+      <scope id="5082150469603624664" at="45,0,48,0">
+        <var name="windowEvent" id="5082150469603625526" />
       </scope>
-      <scope id="5588276297793119179" at="11,0,27,0">
-        <var name="args" id="5588276297793119180" />
+      <scope id="5082150469603720997" at="58,33,61,0" />
+      <scope id="5082150469603708485" at="30,0,34,0">
+        <var name="args" id="5082150469603713390" />
       </scope>
-      <unit id="5588276297793065277" at="10,0,28,0" name="io.searchbox.client.Main" />
+      <scope id="5082150469603720994" at="58,0,63,0" />
+      <scope id="5082150469603539009" at="35,29,55,31">
+        <var name="adminTabManipulate" id="782160963560890915" />
+      </scope>
+      <scope id="5082150469603539006" at="35,0,57,0" />
+      <scope id="782160963560909143" at="64,34,137,17">
+        <var name="authLabel" id="782160963562288952" />
+        <var name="authentication" id="782160963562267177" />
+        <var name="authenticationProxy" id="782160963562247085" />
+        <var name="create" id="782160963562127230" />
+        <var name="delete" id="782160963562185375" />
+        <var name="indexLabel" id="782160963560915320" />
+        <var name="indexTextField" id="782160963560927288" />
+        <var name="json" id="782160963561012809" />
+        <var name="jsonArea" id="782160963561020649" />
+        <var name="panel" id="782160963560992760" />
+        <var name="panelButtons" id="782160963562176209" />
+        <var name="proxy" id="782160963562431168" />
+        <var name="proxyLabel" id="782160963562452448" />
+        <var name="proxyTxt" id="782160963562469137" />
+        <var name="pswLabel" id="782160963562383414" />
+        <var name="pswPanel" id="782160963562362348" />
+        <var name="pswTxt" id="782160963562393385" />
+        <var name="scrollPane" id="782160963562054851" />
+        <var name="update" id="782160963562162768" />
+        <var name="usrLabel" id="782160963562329824" />
+        <var name="usrPanel" id="782160963562298974" />
+        <var name="usrTxt" id="782160963562339764" />
+      </scope>
+      <scope id="782160963560909140" at="64,0,139,0" />
+      <unit id="5082150469603623623" at="44,36,48,5" name="io.searchbox.client.GUI$1" />
+      <unit id="5082150469603525651" at="20,0,140,0" name="io.searchbox.client.GUI" />
     </file>
   </root>
   <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8423122693117674852">
@@ -81,7 +205,7 @@
   </root>
   <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8496368874152531127">
     <file name="JestClientFactory.java">
-      <node id="8423122693117698755" at="45,0,46,0" concept="12" trace="log" />
+      <node id="8423122693117698755" at="45,0,46,0" concept="13" trace="log" />
       <node id="8423122693117698760" at="46,0,47,0" concept="4" trace="httpClientConfig" />
       <node id="8423122693117698767" at="47,33,48,49" concept="9" />
       <node id="8423122693117698776" at="49,35,50,118" concept="3" />
@@ -127,7 +251,7 @@
       <node id="8423122693117699021" at="136,47,137,172" concept="9" />
       <node id="8423122693117699033" at="137,172,138,248" concept="9" />
       <node id="8423122693117699050" at="139,9,140,129" concept="3" />
-      <node id="8423122693117699064" at="141,36,142,41" concept="14" />
+      <node id="8423122693117699064" at="141,36,142,41" concept="15" />
       <node id="8423122693117699068" at="143,5,144,70" concept="9" />
       <node id="8423122693117699077" at="145,27,146,35" concept="3" />
       <node id="8423122693117699081" at="147,5,148,95" concept="9" />
@@ -180,7 +304,7 @@
       <node id="8423122693117699257" at="194,46,197,5" concept="6" />
       <node id="8423122693117698770" at="48,49,52,5" concept="7" />
       <node id="8423122693117698897" at="90,94,94,5" concept="7" />
-      <node id="8423122693117699065" at="138,248,143,5" concept="15" />
+      <node id="8423122693117699065" at="138,248,143,5" concept="16" />
       <node id="8423122693117698812" at="60,43,66,5" concept="7" />
       <node id="8423122693117699224" at="186,0,192,0" concept="8" trace="createPreemptiveAuthContext#(Ljava/util/Set;)Lorg/apache/http/client/protocol/HttpClientContext;" />
       <node id="8423122693117699244" at="192,0,200,0" concept="8" trace="createBasicAuthCache#(Ljava/util/Set;)Lorg/apache/http/client/AuthCache;" />
@@ -300,16 +424,16 @@
   </root>
   <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8496368874152563985">
     <file name="JestResult.java">
-      <node id="8423122693117702538" at="26,0,27,0" concept="12" trace="ES_METADATA_ID" />
-      <node id="8423122693117702542" at="27,0,28,0" concept="12" trace="ES_METADATA_VERSION" />
-      <node id="8423122693117702546" at="28,0,29,0" concept="12" trace="log" />
+      <node id="8423122693117702538" at="26,0,27,0" concept="13" trace="ES_METADATA_ID" />
+      <node id="8423122693117702542" at="27,0,28,0" concept="13" trace="ES_METADATA_VERSION" />
+      <node id="8423122693117702546" at="28,0,29,0" concept="13" trace="log" />
       <node id="8423122693117702495" at="30,0,31,0" concept="4" trace="internalFieldName" />
       <node id="8423122693117702499" at="31,0,32,0" concept="4" trace="esFieldName" />
       <node id="8423122693117702503" at="32,0,33,0" concept="4" trace="annotationClass" />
       <node id="8423122693117702520" at="33,118,34,49" concept="3" />
       <node id="8423122693117702526" at="34,49,35,37" concept="3" />
       <node id="8423122693117702532" at="35,37,36,45" concept="3" />
-      <node id="990910864841179290" at="39,0,40,0" concept="12" trace="META_FIELDS" />
+      <node id="990910864841179290" at="39,0,40,0" concept="13" trace="META_FIELDS" />
       <node id="8423122693117702567" at="40,0,41,0" concept="4" trace="jsonObject" />
       <node id="8423122693117702571" at="41,0,42,0" concept="4" trace="jsonString" />
       <node id="8423122693117702575" at="42,0,43,0" concept="4" trace="pathToResult" />
@@ -413,7 +537,7 @@
       <node id="8423122693117703479" at="291,54,292,49" concept="10" />
       <node id="8423122693117703491" at="294,49,295,39" concept="10" />
       <node id="8423122693117703503" at="297,52,298,45" concept="10" />
-      <node id="8423122693117703517" at="299,5,300,75" concept="14" />
+      <node id="8423122693117703517" at="299,5,300,75" concept="15" />
       <node id="8423122693117703522" at="302,32,303,67" concept="10" />
       <node id="8423122693117702647" at="56,0,59,0" concept="2" trace="JestResult#(Lcom/google/gson/Gson;)V" />
       <node id="8423122693117702659" at="59,0,62,0" concept="8" trace="getPathToResult#()Ljava/lang/String;" />
@@ -472,13 +596,13 @@
       <node id="8423122693117703229" at="223,31,233,7" concept="6" />
       <node id="8423122693117702846" at="128,0,139,0" concept="8" trace="getSourceAsStringList#()Ljava/util/List;" />
       <node id="8423122693117702932" at="147,0,159,0" concept="8" trace="getSourceAsObjectList#(Ljava/lang/Class;)Ljava/util/List;" />
-      <node id="8423122693117703339" at="239,99,251,5" concept="15" />
+      <node id="8423122693117703339" at="239,99,251,5" concept="16" />
       <node id="8423122693117703090" at="182,62,195,15" concept="7" />
       <node id="8423122693117703141" at="198,14,211,9" concept="7" />
       <node id="8423122693117703087" at="181,34,196,13" concept="6" />
       <node id="8423122693117703281" at="239,0,254,0" concept="8" trace="setAnnotatedField#(nullLcom/google/gson/JsonElement;Ljava/lang/reflect/Field;Ljava/lang/String;)Z" />
       <node id="8423122693117703083" at="180,16,197,11" concept="7" />
-      <node id="8423122693117703275" at="217,17,236,5" concept="15" />
+      <node id="8423122693117703275" at="217,17,236,5" concept="16" />
       <node id="8423122693117703063" at="174,11,197,11" concept="7" />
       <node id="8423122693117703192" at="216,0,239,0" concept="8" trace="createSourceObject#(Lcom/google/gson/JsonElement;Ljava/lang/Class;)null" />
       <node id="8423122693117703030" at="170,50,211,9" concept="7" />
@@ -722,9 +846,9 @@
   </root>
   <root nodeRef="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8496368874152564214">
     <file name="AbstractJestClient.java">
-      <node id="8423122693117678376" at="22,0,23,0" concept="12" trace="ELASTIC_SEARCH_DATE_FORMAT" />
+      <node id="8423122693117678376" at="22,0,23,0" concept="13" trace="ELASTIC_SEARCH_DATE_FORMAT" />
       <node id="8423122693117678380" at="23,0,24,0" concept="4" trace="gson" />
-      <node id="8423122693117678390" at="24,0,25,0" concept="12" trace="log" />
+      <node id="8423122693117678390" at="24,0,25,0" concept="13" trace="log" />
       <node id="8423122693117678396" at="25,0,26,0" concept="4" trace="serverPoolReference" />
       <node id="8423122693117678406" at="26,0,27,0" concept="4" trace="nodeChecker" />
       <node id="8423122693117678410" at="27,0,28,0" concept="4" trace="idleConnectionReaper" />
@@ -760,7 +884,7 @@
       <node id="8423122693117678349" at="100,113,101,69" concept="3" />
       <node id="8423122693117678352" at="101,69,102,33" concept="3" />
       <node id="8423122693117678355" at="102,33,103,89" concept="10" />
-      <node id="8423122693117678366" at="105,14,106,92" concept="14" />
+      <node id="8423122693117678366" at="105,14,106,92" concept="15" />
       <node id="8423122693117678371" at="109,26,110,32" concept="10" />
       <node id="8423122693117678362" at="105,12,107,7" concept="0" />
       <node id="8423122693117678418" at="29,0,32,0" concept="8" trace="setNodeChecker#(Lio/searchbox/client/config/discovery/NodeChecker;)V" />
@@ -781,7 +905,7 @@
       <node id="8423122693117678447" at="35,47,41,5" concept="7" />
       <node id="8423122693117678530" at="69,0,77,0" concept="8" trace="getRequestURL#(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" />
       <node id="8423122693117678489" at="50,0,60,0" concept="8" trace="shutdownClient#()V" />
-      <node id="8423122693117678360" at="93,35,104,9" concept="15" />
+      <node id="8423122693117678360" at="93,35,104,9" concept="16" />
       <node id="8423122693117678442" at="35,0,50,0" concept="8" trace="setServers#(Ljava/util/Set;)V" />
       <node id="8423122693117678331" at="92,35,107,7" concept="7" />
       <node id="8423122693117678329" at="92,0,109,0" concept="8" trace="getNextServer#()Ljava/lang/String;" />
