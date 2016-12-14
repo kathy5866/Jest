@@ -11,17 +11,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/classes_gen/io/searchbox/client/GUI.class" afterPath="$PROJECT_DIR$/Jest/classes_gen/io/searchbox/client/GUI.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/classes_gen/io/searchbox/client/trace.info" afterPath="$PROJECT_DIR$/Jest/classes_gen/io/searchbox/client/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/action.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/action.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/client.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/client.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/cluster.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/cluster.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/core.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/core.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/core/search/aggregation.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/core/search/aggregation.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/core/search/sort.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/core/search/sort.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/indices.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/indices.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/io/searchbox/snapshot.mps" afterPath="$PROJECT_DIR$/Jest/models/io/searchbox/snapshot.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/models/peoplConfig.mps" afterPath="$PROJECT_DIR$/Jest/models/peoplConfig.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/com/searchly/jestdroid/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/com/searchly/jestdroid/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/action/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/action/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/config/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/config/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/dependencies" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/http/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/client/http/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/cluster/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/cluster/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/search/aggregation/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/search/aggregation/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/search/sort/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/core/search/sort/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/aliases/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/aliases/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/mapping/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/mapping/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/script/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/script/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/settings/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/settings/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/template/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/template/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/type/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/indices/type/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/snapshot/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/io/searchbox/snapshot/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen.caches/peoplConfig/generated" afterPath="$PROJECT_DIR$/Jest/source_gen.caches/peoplConfig/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen/io/searchbox/client/GUI.java" afterPath="$PROJECT_DIR$/Jest/source_gen/io/searchbox/client/GUI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jest/source_gen/io/searchbox/client/trace.info" afterPath="$PROJECT_DIR$/Jest/source_gen/io/searchbox/client/trace.info" />
@@ -48,7 +56,7 @@
       <list>
         <TabState>
           <option name="title" value="Console" />
-          <option name="history" value="kaurqQAABAAHKCv/dPRMPElVpexOCZOLaBIAABdUZW1wTW9kZWxfMTQ5MzgzODU5MDU0MxdIhSylKjYrRKuKo0a0nFfkdgAALlRlbXBNb2R1bGU4NTJjYTUyYS0zNjJiLTQ0YWItOGFhMy00NmI0OWM1N2U0Nzb/////q6urq1paWloAAs6rUZUl6k8im5IQO5XKjAwAABdqZXRicmFpbnMubXBzLmxhbmcuY29yZQABAAABEDluqqQAAA1JTmFtZWRDb25jZXB0ABIAAQAAARA5bsBBAAAEbmFtZQAAAADeGthtblBKArMG1NF/ZMN1AAAaamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2UAAxX7NAUfclosAAALQ29uc29sZVJvb3QAEgAAAAAAAhX7NAUfcluvAAAHaGlzdG9yeQAV+zQFH3JbsQAADWNvbW1hbmRIb2xkZXIABOJxYKy0SEsAAA1Db21tYW5kSG9sZGVyABIAAAAAAAAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAKWlpaUABN4a2G1uUEoCswbU0X9kw3UBAAAABfJmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHOZWnOUf3ZLi6kpxTRIcIEGAAAmamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMAAAABF0j7wl3SXaRIOosZcJKOG2LXAAAkamV0YnJhaW5zLm1wcy5kZXZraXQuZ2VuZXJhbC1wdXJwb3NlAAAABAcoNZsdK3fERt+b8rJcvqMiVAAAJGpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlLnN0cnVjdHVyZXD/////ByjnEvNTXDxCiK3Oh8lWpS/7AAAnamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHMuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKJBEUgapc0wdt2Aw5cd7dJcAADBqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcy5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYWS0cgDCqi+D//3sAAAAAAAAAAAACAAMYWS0cgDCqi+EAAHsAAAAAAAAAAAAAfQACGFktHIAwqoviAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
+          <option name="history" value="kaurqQAABAAHKLHSfsNe104johUbJcMuWLYAABdUZW1wTW9kZWxfNTgxMzMyODAyNTEwNRdIxd6BWNT/TFKR36chWaokKwAALlRlbXBNb2R1bGVjNWRlODE1OC1kNGZmLTRjNTItOTFkZi1hNzIxNTlhYTI0MmL/////q6urq1paWloAAs6rUZUl6k8im5IQO5XKjAwAABdqZXRicmFpbnMubXBzLmxhbmcuY29yZQABAAABEDluqqQAAA1JTmFtZWRDb25jZXB0ABIAAQAAARA5bsBBAAAEbmFtZQAAAADeGthtblBKArMG1NF/ZMN1AAAaamV0YnJhaW5zLm1wcy5jb25zb2xlLmJhc2UAAxX7NAUfclosAAALQ29uc29sZVJvb3QAEgAAAAAAAhX7NAUfcluvAAAHaGlzdG9yeQAV+zQFH3JbsQAADWNvbW1hbmRIb2xkZXIABOJxYKy0SEsAAA1Db21tYW5kSG9sZGVyABIAAAAAAAAKg18owaoCvgAAB0hpc3RvcnkAEgAAAAAAAKWlpaUABN4a2G1uUEoCswbU0X9kw3UBAAAABfJmkdIN70wGrsYsuQxK8KQAAB1qZXRicmFpbnMubXBzLmNvbnNvbGUuc2NyaXB0c6Xk3lNGo0TaqrNo/fHDTtAAACFqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHOZWnOUf3ZLi6kpxTRIcIEGAAAmamV0YnJhaW5zLm1wcy5jb25zb2xlLmludGVybmFsQ29tbWFuZHMAAAABF0j7wl3SXaRIOosZcJKOG2LXAAAkamV0YnJhaW5zLm1wcy5kZXZraXQuZ2VuZXJhbC1wdXJwb3NlAAAABAcoNZsdK3fERt+b8rJcvqMiVAAAJGpldGJyYWlucy5tcHMuY29uc29sZS5iYXNlLnN0cnVjdHVyZXD/////ByjnEvNTXDxCiK3Oh8lWpS/7AAAnamV0YnJhaW5zLm1wcy5jb25zb2xlLnNjcmlwdHMuc3RydWN0dXJlcP////8HKBNaYG8DdkxcmrhAMPBRoGIAACtqZXRicmFpbnMubXBzLmNvbnNvbGUuaWRlQ29tbWFuZHMuc3RydWN0dXJlcP////8HKJBEUgapc0wdt2Aw5cd7dJcAADBqZXRicmFpbnMubXBzLmNvbnNvbGUuaW50ZXJuYWxDb21tYW5kcy5zdHJ1Y3R1cmVw/////7q6uroAAAABAAEYW4NeMVUVUd7//3sAAAAAAAAAAAACAAMYW4NeMVUVUd8AAHsAAAAAAAAAAAAAfQACGFuDXjFVFVHgAAF7AAEAAAEAAAAJAAAAAAAAAAB9fQ==" />
         </TabState>
       </list>
     </option>
@@ -68,156 +76,113 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.63305086">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="GUI" pinned="false" current-in-tab="true">
-            <entry file="mps://node://Jest/io.searchbox.client/GUI">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="2071">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretX" value="241" />
-                        <property name="caretXRelative" value="8" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="rightParen" cellNumber="0" isInList="false">
-                          <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <errorMarkers />
-                    <transactionalProperties />
-                    <collapsed />
-                  </memento>
-                  <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <errorMarkers />
-                    <transactionalProperties />
-                    <collapsed />
-                    <enabledHints>
-                      <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
-                    </enabledHints>
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Explain" pinned="false" current-in-tab="false">
-            <entry file="mps://node://Jest/io.searchbox.core/Explain">
-              <provider selected="true" editor-type-id="MPSFileEditor">
-                <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                  <memento viewPositionX="0" viewPositionY="0">
-                    <selectionStack>
-                      <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                        <property name="hasNonTrivialSelection" value="false" />
-                        <property name="caretX" value="151" />
-                        <property name="caretXRelative" value="120" />
-                        <property name="sideSelectDirection" value="NONE" />
-                        <cellInfo cellId="ModelAccess_x1gmbt_a0" cellNumber="0" isInList="false">
-                          <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117733747" />
-                        </cellInfo>
-                      </stackElement>
-                    </selectionStack>
-                    <errorMarkers />
-                    <transactionalProperties />
-                    <collapsed />
-                  </memento>
-                  <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
-                    <selectionStack />
-                    <errorMarkers />
-                    <transactionalProperties />
-                    <collapsed />
-                    <enabledHints>
-                      <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
-                    </enabledHints>
-                  </inspectorMemento>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.5">
-          <split-first>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="Jest" pinned="false" current-in-tab="true">
-                <entry file="mps://node://Jest/peoplConfig/Jest">
-                  <provider selected="true" editor-type-id="MPSFileEditor">
-                    <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                      <memento viewPositionX="0" viewPositionY="0">
-                        <selectionStack>
-                          <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                            <property name="hasNonTrivialSelection" value="false" />
-                            <property name="caretX" value="479" />
-                            <property name="caretXRelative" value="76" />
-                            <property name="sideSelectDirection" value="NONE" />
-                            <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                              <node node_reference="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/782160963553196358" />
-                            </cellInfo>
-                          </stackElement>
-                        </selectionStack>
-                        <errorMarkers />
-                        <transactionalProperties />
-                        <collapsed />
-                      </memento>
-                      <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
-                        <selectionStack />
-                        <errorMarkers />
-                        <transactionalProperties />
-                        <collapsed />
-                        <enabledHints>
-                          <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
-                        </enabledHints>
-                      </inspectorMemento>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="ModuleDefinitions" pinned="false" current-in-tab="true">
-                <entry file="mps://node://Jest/peoplConfig/ModuleDefinitions">
-                  <provider selected="true" editor-type-id="MPSFileEditor">
-                    <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-                      <memento viewPositionX="0" viewPositionY="0">
-                        <selectionStack>
-                          <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                            <property name="hasNonTrivialSelection" value="false" />
-                            <property name="caretX" value="109" />
-                            <property name="caretXRelative" value="76" />
-                            <property name="sideSelectDirection" value="NONE" />
-                            <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                              <node node_reference="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/5588276297795453856" />
-                            </cellInfo>
-                          </stackElement>
-                        </selectionStack>
-                        <errorMarkers />
-                        <transactionalProperties />
-                        <collapsed />
-                      </memento>
-                      <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
-                        <selectionStack />
-                        <errorMarkers />
-                        <transactionalProperties />
-                        <collapsed />
-                        <enabledHints>
-                          <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
-                        </enabledHints>
-                      </inspectorMemento>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Explain" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Jest/io.searchbox.core/Explain">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="31" />
+                    <property name="caretXRelative" value="4" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_hgnyap_a0b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8496368874152530475" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUI" pinned="false" current-in-tab="true">
+        <entry file="mps://node://Jest/io.searchbox.client/GUI">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="3011">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="377" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_arlg9k_c0" cellNumber="0" isInList="false">
+                      <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed>
+                  <collapsedElement isCollapsed="true">
+                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                      <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5139689475459778133" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </collapsed>
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JestResult" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Jest/io.searchbox.client/JestResult">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="120">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="31" />
+                    <property name="caretXRelative" value="4" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_hgnyap_a0b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8496368874152563988" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <collapsed />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -239,9 +204,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="x" value="36" />
+    <option name="y" value="28" />
+    <option name="width" value="1404" />
+    <option name="height" value="673" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -375,101 +341,8 @@
     </navigator>
     <panes>
       <pane id="Favorites" />
-      <pane id="CustomProjectView_de.htwsaar.peopl.projectview.product.plugin.ProductProjectView">
-        <subPane />
-      </pane>
-      <pane id="FileSystem" />
-      <pane id="CustomProjectView_de.htwsaar.peopl.projectview.modular.plugin.ModularProjectView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Languages" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htwsaar" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1a3a0b62-fb00-47d1-8423-98da4001b216(de.htwsaar.peopl.core)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:1d1b7c21-78ab-422c-9cd5-20e6bc04ad41(de.htwsaar.peopl.core.intentions) in IdeaFile{jar:///Users/Kathy/Library/Application Support/MPS33/peoplCore/languages/core/de.htwsaar.peopl.core-src.jar!/module/models/intentions.mpb}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Unused" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/core.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/client.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Languages" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="de" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -504,17 +377,31 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="Modules Pool" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
+              <option name="myItemId" value="Languages" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="de" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htwsaar" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1a3a0b62-fb00-47d1-8423-98da4001b216(de.htwsaar.peopl.core)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:1d1b7c21-78ab-422c-9cd5-20e6bc04ad41(de.htwsaar.peopl.core.intentions) in IdeaFile{jar:///Users/Kathy/Library/Application Support/MPS33/peoplCore/languages/core/de.htwsaar.peopl.core-src.jar!/module/models/intentions.mpb}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unused" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -547,20 +434,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Languages" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -590,6 +463,110 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/core.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/client.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Languages" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="de" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Languages" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:68ccbaa2-a8f9-414a-9381-49b846efba3d(io.searchbox.indices) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/indices.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -599,13 +576,32 @@
               <option name="myItemId" value="$PROJECT_DIR$/Jest/Jest.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client) in IdeaFile{file:///Users/Kathy/Jest/JestSPL/Jest/models/io/searchbox/client.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5082150469603525651" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
       <pane id="CustomProjectView_de.htwsaar.peopl.projectview.modular.plugin.ModularProjectView">
         <subPane />
       </pane>
       <pane id="CustomProjectView_de.htwsaar.peopl.projectview.product.plugin.ProductProjectView">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_de.htwsaar.peopl.projectview.product.plugin.ProductProjectView">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_de.htwsaar.peopl.projectview.modular.plugin.ModularProjectView">
         <subPane />
       </pane>
     </panes>
@@ -748,13 +744,13 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="36" y="28" width="1404" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2928475" sideWeight="0.49120122" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2593583" sideWeight="0.50282085" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2593583" sideWeight="0.50282085" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -763,17 +759,17 @@
       <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275401" sideWeight="0.876052" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45673078" sideWeight="0.876052" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3435829" sideWeight="0.49717912" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34134614" sideWeight="0.49717912" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18055555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17806268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -804,38 +800,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://Jest/io.searchbox.client/GUI">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="1538">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="143" />
-                <property name="caretXRelative" value="44" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5139689475460081031" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5139689475460081031" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Jest/io.searchbox.client/GUI">
+    <entry file="mps://node://Jest/io.searchbox.core/Explain">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -849,6 +814,30 @@
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/peoplConfig/Jest">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
           </inspectorMemento>
         </state>
       </provider>
@@ -1236,35 +1225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Jest/io.searchbox.core/Delete">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="470" />
-                <property name="caretXRelative" value="140" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117728090" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117728090" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <collapsed />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://Jest/io.searchbox.action/AbstractDocumentTargetedAction">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1533,26 +1493,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Jest/io.searchbox.client/GUI">
+    <entry file="mps://node://Jest/peoplConfig/Jest">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="2071">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="241" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="rightParen" cellNumber="0" isInList="false">
-                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/782160963561045988" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1564,18 +1514,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Jest/peoplConfig/Jest">
+    <entry file="mps://node://Jest/io.searchbox.core/Explain">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="479" />
-                <property name="caretXRelative" value="76" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="4" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/782160963553196358" />
+                <cellInfo cellId="ReadOnlyModelAccessor_hgnyap_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8496368874152530475" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1583,7 +1533,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1606,7 +1556,7 @@
                 <property name="caretXRelative" value="76" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/5588276297795453856" />
+                  <node node_reference="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/5588276297795814631" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1614,7 +1564,7 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:cb4e30dd-584a-40ec-8a59-8a7b1c91a0d3(peoplConfig)/5588276297795814631" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1626,18 +1576,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Jest/io.searchbox.core/Explain">
+    <entry file="mps://node://Jest/io.searchbox.client/GUI">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="3011">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="377" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_arlg9k_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed>
+              <collapsedElement isCollapsed="true">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/5139689475459778133" />
+                </cellIdElement>
+              </collapsedElement>
+            </collapsed>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.client/JestClient">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="151" />
-                <property name="caretXRelative" value="120" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="ModelAccess_x1gmbt_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117733747" />
+                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8423122693117729013" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1645,7 +1632,164 @@
             <transactionalProperties />
             <collapsed />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6425823580225595462" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8423122693117729013" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.client/JestClientFactory">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="247">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionStart" value="0" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="caretX" value="207" />
+                <property name="selectionEnd" value="4" />
+                <property name="caretXRelative" value="36" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="methodName" cellNumber="0" isInList="false">
+                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8423122693117698764" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8423122693117698764" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.core/Index">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="91">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReadOnlyModelAccessor_hgnyap_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8496368874152520029" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8496368874152520029" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.core/Delete">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="455" />
+                <property name="caretXRelative" value="136" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117728090" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:e8186638-d3aa-400d-8920-fe9c32aa1be9(io.searchbox.core)/8423122693117728090" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.indices/CreateIndex">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="269">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="263" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:68ccbaa2-a8f9-414a-9381-49b846efba3d(io.searchbox.indices)/8423122693117681192" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:68ccbaa2-a8f9-414a-9381-49b846efba3d(io.searchbox.indices)/8423122693117681192" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.htwsaar.peopl.baseLanguageExtension.editor.BaseLanguageExtensionHints.annotative" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Jest/io.searchbox.client/JestResult">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="120">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="ReadOnlyModelAccessor_hgnyap_a0b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/8496368874152563988" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <collapsed />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:51721a43-bbd1-4edc-af1d-75408a5d4a04(io.searchbox.client)/6594217845375276012" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

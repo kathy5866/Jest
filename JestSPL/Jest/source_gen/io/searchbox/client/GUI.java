@@ -4,6 +4,9 @@ package io.searchbox.client;
 
 import javax.swing.JFrame;
 import javax.swing.JTextField;
+import javax.swing.JButton;
+import javax.swing.JTextArea;
+import java.awt.event.ActionListener;
 import io.searchbox.client.config.HttpClientConfig;
 import javax.swing.JTabbedPane;
 import java.awt.event.WindowAdapter;
@@ -12,13 +15,15 @@ import javax.swing.JPanel;
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
 import java.awt.FlowLayout;
-import javax.swing.JButton;
-import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
 import java.awt.GridLayout;
 import java.awt.Component;
+import java.awt.event.ActionEvent;
 import io.searchbox.indices.CreateIndex;
 import java.io.IOException;
+import io.searchbox.indices.DeleteIndex;
+import io.searchbox.core.Index;
+import io.searchbox.core.Get;
 
 public class GUI {
 
@@ -27,6 +32,14 @@ public class GUI {
   private JestClientFactory factory;
   private JestClient client;
   private JTextField indexTextField;
+  private JButton create;
+  private JButton update;
+  private JButton delete;
+  private JTextArea jsonArea;
+  private JTextField usrTxt;
+  private JTextField pswTxt;
+  private JTextField proxyTxt;
+  private ActionListener[] createIndexListener;
 
   public GUI() {
     prepareGUI();
@@ -75,14 +88,21 @@ public class GUI {
     indexTextField = new JTextField();
     indexTextField.setPreferredSize(indexTextField.getPreferredSize());
 
+    JPanel panelIndexButtons = new JPanel();
+    panelIndexButtons.setLayout(new FlowLayout());
+    JButton createIndex = new JButton("Create Index");
+    JButton deleteIndex = new JButton("Delete Index");
+    panelIndexButtons.add(createIndex);
+    panelIndexButtons.add(deleteIndex);
+
     JPanel panelButtons = new JPanel();
     panelButtons.setLayout(new FlowLayout());
-    JButton create = new JButton("Create");
-    JButton update = new JButton("Update");
-    JButton delete = new JButton("Delete");
+    create = new JButton("Create");
+    update = new JButton("Update");
+    delete = new JButton("Delete");
 
     JLabel json = new JLabel("JSON String");
-    JTextArea jsonArea = new JTextArea();
+    jsonArea = new JTextArea();
     jsonArea.setPreferredSize(jsonArea.getPreferredSize());
     JScrollPane scrollPane = new JScrollPane(jsonArea);
 
@@ -96,7 +116,7 @@ public class GUI {
     JPanel usrPanel = new JPanel();
     usrPanel.setLayout(new FlowLayout());
     JLabel usrLabel = new JLabel("Username");
-    JTextField usrTxt = new JTextField("", 10);
+    usrTxt = new JTextField("", 10);
     usrTxt.setPreferredSize(usrTxt.getPreferredSize());
     usrPanel.add(usrLabel);
     usrPanel.add(usrTxt);
@@ -104,7 +124,7 @@ public class GUI {
     JPanel pswPanel = new JPanel();
     usrPanel.setLayout(new FlowLayout());
     JLabel pswLabel = new JLabel("Password");
-    JTextField pswTxt = new JTextField("", 10);
+    pswTxt = new JTextField("", 10);
     pswTxt.setPreferredSize(pswTxt.getPreferredSize());
     pswPanel.add(pswLabel);
     pswPanel.add(pswTxt);
@@ -115,7 +135,7 @@ public class GUI {
     JPanel proxy = new JPanel();
     proxy.setLayout(new BoxLayout(proxy, BoxLayout.PAGE_AXIS));
     JLabel proxyLabel = new JLabel("Proxy");
-    JTextField proxyTxt = new JTextField();
+    proxyTxt = new JTextField();
     proxyTxt.setPreferredSize(proxyTxt.getPreferredSize());
     proxy.add(proxyLabel);
     proxy.add(proxyTxt);
@@ -129,12 +149,49 @@ public class GUI {
 
     panel.add(indexLabel);
     panel.add(indexTextField);
+    panel.add(panelIndexButtons);
     panel.add(json);
     panel.add(jsonArea);
     panel.add(scrollPane);
     panel.add(panelButtons);
     panel.add(authenticationProxy);
     panel.setAlignmentX(Component.LEFT_ALIGNMENT);
+
+    createIndex.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent p0) {
+        try {
+          client.execute(new CreateIndex.Builder(indexTextField.getText()).build());
+
+        } catch (IOException e) {
+          System.out.println("error while trying to create index");
+        }
+      }
+    });
+
+    deleteIndex.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent p0) {
+        try {
+          client.execute(new DeleteIndex.Builder(indexTextField.getText()).build());
+        } catch (IOException e) {
+          System.out.println("Error while trying to delete index");
+        }
+      }
+    });
+
+    create.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent p0) {
+        String source = jsonArea.getText();
+        Index index = new Index.Builder(source).index(indexTextField.getText()).type("tweet").id("1").build();
+        try {
+          client.execute(index);
+          System.out.println("Document created\n");
+        } catch (IOException e) {
+          System.out.println("error while trying to create document\n");
+        }
+      }
+    });
+
+
 
     return panel;
   }
@@ -161,15 +218,39 @@ public class GUI {
 
   private JPanel getDocument() {
     JPanel panel = new JPanel();
+    panel.setLayout(new BoxLayout(panel, BoxLayout.PAGE_AXIS));
+
+    JPanel panelName = new JPanel();
+    panelName.setLayout(new FlowLayout());
+    JTextField indexName = new JTextField("", 10);
+    indexName.setPreferredSize(indexName.getPreferredSize());
+    JButton getDoc = new JButton("Get Document");
+    panelName.add(indexName);
+    panelName.add(getDoc);
+
+    JTextArea results = new JTextArea();
+    results.setPreferredSize(results.getPreferredSize());
+
+    panel.add(panelName);
+    panel.add(results);
+
+    getDoc.addActionListener(new ActionListener() {
+      public void actionPerformed(ActionEvent p0) {
+        Get get = new Get.Builder(indexName.getText(), "1").type("tweet").build();
+        String resString = new String();
+        try {
+          JestResult res;
+          res = client.execute(get);
+          resString = res.getSourceAsString();
+        } catch (IOException e) {
+          System.out.println("Error while getting the document");
+        }
+
+        results.insert(resString, 1);
+      }
+    });
 
     return panel;
   }
 
-  private void CreateIndex() {
-    try {
-      client.execute(new CreateIndex.Builder(indexTextField.getText()).build());
-    } catch (IOException e) {
-      System.out.println(e.getMessage());
-    }
-  }
 }
